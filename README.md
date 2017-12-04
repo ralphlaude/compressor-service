@@ -3,7 +3,7 @@
 1. SBT 1.0.4
 2. Java 8
 3. Scala 2.12.4
-4. cd xxx
+4. cd compressor-service
 
 ## Usage
 
@@ -17,6 +17,7 @@
 2. In the second console run the project:
 
     1. `sbt run`
+    
  
 3. In the browser:
 
